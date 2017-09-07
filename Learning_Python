@@ -10,4 +10,4 @@ if var=1
  else
   print("This is false")
 
-Print"This is wrong")
+Print("This is wrong")
