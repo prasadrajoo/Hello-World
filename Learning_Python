@@ -3,3 +3,9 @@ This git is created to learn Python Scripting
 Print("Hello World")
 
 Print("This is Prasad")
+
+Var=1
+if var=1
+  print("This is true")
+ else
+  print("This is false")
